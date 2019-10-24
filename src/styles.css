@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  color: #ffffff;
+  background-color: black;
+  box-shadow: 3px 15px 20px grey;
+}
+.container {
+  width: 600px;
+  height: 600px;
+  margin: 0 auto;
+  background-color: #ccc;
+  background-image: url(https://66media.tumblr.com/7e7c26ffd11752f6e96166136b8ff8bd/tumblr_mu0g76Mm9M1sip31qo1_400.jpg);
+}
+
+.pai {
+  background-color: white;
+  border: 4px solid azul;
+  margin: 4px;
+}
